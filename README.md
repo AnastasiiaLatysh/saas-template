@@ -1,4 +1,4 @@
-# Software Engineering Course project template
+# Software Engineering Course project template 1
 
 ## Setup dev environment
 * setup Talan project https://github.com/project-talan/talan-core/tree/latest
